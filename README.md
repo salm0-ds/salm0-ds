@@ -3,7 +3,7 @@
 #### 🔭 Currently building
 
 - Multi-tenant RAG platforms
-- Agentic AI Shopping Assistant
+- Agentic AI E-commerce Assistant
 - MCP Portal
 - AI evaluation, observability and reliability tooling
 
