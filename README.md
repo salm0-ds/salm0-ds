@@ -2,13 +2,6 @@
 
 I'm Saaim, an AI Engineer focused on building and deploying practical AI applications and systems.
 
-#### 🔭 Currently building
-
-- Multi-tenant RAG platforms
-- Agentic AI E-commerce Assistant
-- MCP Portal
-- AI evaluation, observability and reliability tooling
-
 #### 🌱 Currently learning
 - Agentic AI, RAG, MCP
 - Production-grade AI engineering
@@ -25,13 +18,6 @@ AI Engineering · Applied AI · AI Systems · Infrastructure · Cloud · Agents 
 ## 🌐 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saaim-a-94342b241)
 
-## 🚀 Featured Projects
-
-#### 1. Multi-Tenant RAG Platform (AWS Deployed)
-
-A production-oriented RAG platform where users can upload, organise and query their own documents through multiple chats and folders with persistent memory.
-
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/salm0-ds/rag-app)
 
 ## 💻 Tech Stack
 #### AI / ML
